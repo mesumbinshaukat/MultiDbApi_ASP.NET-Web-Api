@@ -1,0 +1,6 @@
+@MultiDbApi_HostAddress = http://localhost:5089
+
+GET {{MultiDbApi_HostAddress}}/api/db/tables
+Accept: application/json
+
+###
